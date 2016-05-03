@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arkivfrbotani11kung_0225.png"; bbox 0 0 1968 3275; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1350 176 1430 209">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1350 176 1430 209">
+     <span class='ocr_line' id='line_1_1' title="bbox 1350 176 1430 209; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 1350 176 1397 209; x_wconf 74' lang='lat' dir='ltr'>Pl.</span> <span class='ocrx_word' id='word_1_2' title='bbox 1427 181 1430 186; x_wconf 97' lang='grc'><strong>’</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1428 177 1457 210">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1428 177 1457 210">
+     <span class='ocr_line' id='line_1_2' title="bbox 1428 177 1457 210; textangle 90"><span class='ocrx_word' id='word_1_3' title='bbox 1428 177 1457 210; x_wconf 59' lang='lat' dir='ltr'>{v</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 78 298 1497 2987">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 78 298 1497 2987">
+     <span class='ocr_line' id='line_1_3' title="bbox 78 298 1497 2987; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 78 298 1497 2987; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 949 3051 1476 3085">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 949 3051 1476 3085">
+     <span class='ocr_line' id='line_1_4' title="bbox 949 3051 1476 3085; baseline 0 -7"><span class='ocrx_word' id='word_1_5' title='bbox 949 3052 1141 3085; x_wconf 78' lang='lat' dir='ltr'>Cederquists</span> <span class='ocrx_word' id='word_1_6' title='bbox 1163 3051 1242 3078; x_wconf 82' lang='lat' dir='ltr'>Graf.</span> <span class='ocrx_word' id='word_1_7' title='bbox 1264 3052 1349 3078; x_wconf 55' lang='lat' dir='ltr'>Affl..</span> <span class='ocrx_word' id='word_1_8' title='bbox 1372 3052 1476 3078; x_wconf 72' lang='lat' dir='ltr'>S1hlm.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
